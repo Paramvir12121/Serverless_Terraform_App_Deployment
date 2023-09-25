@@ -28,8 +28,8 @@ variable "aws_region" {
 }
 
 variable "github_access_token" {
-  default = "hasg"
-}
+  default = file("C:/Users/param/.ssh/ACS-keys/github_access_key.txt")
+  }
 //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
 
 //1
