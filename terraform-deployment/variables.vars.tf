@@ -28,5 +28,6 @@ variable "aws_region" {
 }
 
 variable "github_access_token" {
-  default = "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"
+  default = "hasg"
 }
+//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
